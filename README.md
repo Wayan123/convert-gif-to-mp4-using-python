@@ -4,4 +4,4 @@ Install local: pip install -requirements.txt
 
 Run: python convert-gif-to-mp4.py
 
-Recommended using googgle colab
+Recommended using Google Colab
